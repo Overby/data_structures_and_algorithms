@@ -1,4 +1,5 @@
 require 'byebug'
+require 'pry'
 
 class IterativeLinkedList
   attr_accessor :head_node
