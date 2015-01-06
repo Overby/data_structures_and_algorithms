@@ -1,3 +1,5 @@
+## Warning: The code here is intentionally broken for debugging practice.
+
 ## Linked Lists
 
 Linked Lists are one of the most fundamental Computer Science data structures.
